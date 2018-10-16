@@ -1,7 +1,8 @@
 ### Satellite Image Analysis Special Interest Group.
 
 **Meeting Time:**  October 18th (Thursday), 12:00pm - 1:00pm
-**Location:** WRF 
+
+**Location:** [WRF Data Science Studio](https://www.google.com/maps/place/eScience+Institute/@47.6536832,-122.3135565,16z/data=!4m5!3m4!1s0x549014f277b0f15d:0x7c2434f079426d8c!8m2!3d47.6533665!4d-122.3117848), UW Physics/Astronomy Tower, 6th floor 
 
 
 With the rise of publicly available satellite imagery data sets provided by both federal institutions and private companies, opportunities have grown to use these data sets to answer questions in a variety of domains (geosciences, social sciences, urban studies, etc).
