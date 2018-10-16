@@ -9,7 +9,7 @@ With the rise of publicly available satellite imagery data sets provided by both
 
 Satellite and other aerial images can provide observations of the earth at very high spatial and temporal resolution, but with that come challenges around managing large scale data sets and extracting relevant information from high-dimensional data. 
 
-##Group Objectives:##
+**Group Objectives:**
 
 * Build a community of users of satellite/aerial imagery 
 * Learn about each other’s work
