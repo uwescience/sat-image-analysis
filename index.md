@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+### Satellite Image Analysis Special Interest Group.
 
-You can use the [editor on GitHub](https://github.com/uwescience/sat-image-analysis/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**Meeting Time:**  October 18th (Thursday), 12:00pm - 1:00pm
+**Location:** WRF 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+With the rise of publicly available satellite imagery data sets provided by both federal institutions and private companies, opportunities have grown to use these data sets to answer questions in a variety of domains (geosciences, social sciences, urban studies, etc).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Satellite and other aerial images can provide observations of the earth at very high spatial and temporal resolution, but with that come challenges around managing large scale data sets and extracting relevant information from high-dimensional data. As such, the objectives of the group are:
 
-```markdown
-Syntax highlighted code block
+* Build a community of users of satellite/aerial imagery 
+* Learn about each other’s work
+* Learn about state-of-the-art methods and tools for large scale data processing and computer vision
+* Identify common challenges in accessing, processing, and analyzing satellite/aerial imagery
+* Together build software tools and advance the methodology in the domain
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/uwescience/sat-image-analysis/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+During the first meeting we will discuss what activities we can engage in as a group: tutorials, scientific discussions and tool exploration. We welcome participants from any domain across campus. We plan on having biweekly meetings during the quarter. A hackathon will also be held in the beginning of Winter Quarter for participants and collaborators to spend some focused time working on projects together.
