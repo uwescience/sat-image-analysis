@@ -7,7 +7,9 @@
 
 With the rise of publicly available satellite imagery data sets provided by both federal institutions and private companies, opportunities have grown to use these data sets to answer questions in a variety of domains (geosciences, social sciences, urban studies, etc).
 
-Satellite and other aerial images can provide observations of the earth at very high spatial and temporal resolution, but with that come challenges around managing large scale data sets and extracting relevant information from high-dimensional data. As such, the objectives of the group are:
+Satellite and other aerial images can provide observations of the earth at very high spatial and temporal resolution, but with that come challenges around managing large scale data sets and extracting relevant information from high-dimensional data. 
+
+##Group Objectives:##
 
 * Build a community of users of satellite/aerial imagery 
 * Learn about each other’s work
