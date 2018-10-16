@@ -1,3 +1,5 @@
+<link href="assets/css/style.scss" rel="stylesheet">
+
 ### Satellite Image Analysis Special Interest Group
 
 **Meeting Time:**  *October 18th (Thursday), 12:00pm - 1:00pm*
