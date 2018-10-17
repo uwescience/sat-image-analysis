@@ -21,3 +21,6 @@ Satellite and other aerial images can provide observations of the Earth at very 
 
 
 During the first meeting we will discuss what activities we can engage in as a group: tutorials, scientific discussions and tool exploration. We welcome participants from any domain across campus. We plan on having biweekly meetings during the quarter. A hackathon will also be held in the beginning of Winter Quarter for participants and collaborators to spend some focused time working on projects together.
+
+**Mailing List**
+Sign up to receive announcements from this group: [remote_sensing@uw.edu](http://mailman11.u.washington.edu/mailman/listinfo/remote_sensing)
