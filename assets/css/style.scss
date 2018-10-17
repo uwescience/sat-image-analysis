@@ -16,4 +16,7 @@ $header-bg-color-secondary: #7EA7D3;
 
 $body-link-color: #7EA7D3;
 $blockquote-text-color: #819198;
-.page-header { color: #fff; text-align: center; background-image:url('https://raw.githack.com/uwescience/sat-image-analysis/master/assets/img/MichaelSatelliteImage.png');background-repeat: no-repeat; }
+.page-header { color: #fff; text-align: center; 
+  background-image:url('https://raw.githack.com/uwescience/sat-image-analysis/master/assets/img/MichaelSatelliteImage.png');
+  background-repeat: no-repeat;
+  background-size: cover;}
