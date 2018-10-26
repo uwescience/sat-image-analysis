@@ -1,4 +1,4 @@
-#<link href="assets/css/style.scss" rel="stylesheet">
+
 
 ### Satellite Image Analysis Special Interest Group
 
