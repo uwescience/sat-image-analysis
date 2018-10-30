@@ -27,3 +27,7 @@ During the first meeting we will discuss what activities we can engage in as a g
 **Mailing List:**
 
 Sign up to receive announcements from this group: [remote_sensing@uw.edu](http://mailman11.u.washington.edu/mailman/listinfo/remote_sensing).
+
+**Slack Channel**
+
+Sign up to join the slack channel: [slack sign-up](https://join.slack.com/t/sat-image-analysis/)
