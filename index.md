@@ -31,3 +31,9 @@ Sign up to receive announcements from this group: [remote_sensing@uw.edu](http:/
 **Slack Channel**
 
 Sign up to join the slack channel: [slack sign-up](https://join.slack.com/t/sat-image-analysis/)
+
+**Resources**
+
+[Here](https://uwescience.github.io/sat-image-analysis/resources.html) you can find some useful resources.
+
+
