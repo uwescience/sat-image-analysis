@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 title: Satellite Image Analysis
-show_downloads: false
+show_downloads: true
 github:
   is_project_page: false
