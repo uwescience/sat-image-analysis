@@ -4,11 +4,12 @@
 
 **Meeting Time:**  *Every other Thursday, 12:00pm - 1:00pm*
 
-**Meetings:** 
+**Meetings:**
 
-*Nov 1, 12:00pm - 1:00pm, Lightning Talks*
-
-*Nov 15, 12:00pm - 1:00pm, Data Processing Workflows*
+|Date   | Topic | Presenters|
+|-------|--------|----------|
+| Nov 1 | *Lightning Talks* |
+| Nov 15 |  * Data Processing Workflows* \m| David Diaz: [Dask.distributed pipeline chaining together command line calls for point cloud processing on a single server](https://github.com/Ecotrust/pyFIRS/tree/master/pyFIRS/examples)}
 
 *Nov 29, 12:00pm - 1:00pm, Data Processing Workflows*
 
