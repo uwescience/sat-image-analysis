@@ -10,7 +10,7 @@
 |-------|-------|-----------|
 | Nov 1 | *Lightning Talks* | All|
 |--------|------------------|----|
-| Nov 15 |  *Data Processing Workflows* | David Diaz: [Dask.distributed pipeline chaining together command line calls for point cloud processing on a single server](https://github.com/Ecotrust/pyFIRS/tree/master/pyFIRS/examples)<br/>Amanda Tan<br/>Valentina Staneva: [From Open Satellite Data to Emergency Response]()|
+| Nov 15 |  *Data Processing Workflows* | David Diaz: [Dask.distributed pipeline chaining together command line calls for point cloud processing on a single server](https://github.com/Ecotrust/pyFIRS/tree/master/pyFIRS/examples)<br/>Amanda Tan<br/>Valentina Staneva: [From Open Satellite Data to Emergency Response](https://github.com/valentina-s/presentations/blob/master/Staneva_Valentina_Workflow.pdf)|
 |---------|-----------------|--------|
 |Nov 29| *Data Processing Workflows*| Aji John <br/> Scott Henderson|
 
