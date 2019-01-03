@@ -2,7 +2,16 @@
 
 ### Satellite Image Analysis Special Interest Group
 
-**Meeting Time:**  *Every other Thursday, 12:00pm - 1:00pm*
+**Meeting Time: Winter Quarter** *Every other Wednesday, 12:30-1:30pm (starting Jan 16th)*
+
+|Date   | Topic | Presenters |
+|-------|-------| -----------|
+|Jan 9 3:30pm-5:00pm | Networking Event| |
+
+
+
+
+**Meeting Time: Fall Quarter**  *Every other Thursday, 12:00pm - 1:00pm*
 
 **Meetings:**
 
