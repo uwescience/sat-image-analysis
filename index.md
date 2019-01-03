@@ -6,7 +6,7 @@
 
 |Date   | Topic | Presenters |
 |-------|-------| -----------|
-|Jan 9 3:30pm-5:00pm | Networking Event| |
+|Jan 9 3:30-5:00pm | Networking Event| |
 
 
 
