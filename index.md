@@ -6,8 +6,8 @@
 
 |Date      | Topic | Presenters |
 |----------|-------| -----------|
-|Jan 9 3:30-5:00pm | Networking Event| Shay Strong: Machine Learning with Satellite Imagery: From Water Conservation to Catastrophe Assessment|
-|Jan 23 12:30 -1:30pm |Labelling Human Activities on Satellite Imagery| Wanli Cheng |
+|Jan 9, 3:30-5:00pm | Networking Event| Shay Strong: Machine Learning with Satellite Imagery: From Water Conservation to Catastrophe Assessment|
+|Jan 23, 12:30 -1:30pm |Labelling Human Activities on Satellite Imagery| Wanli Cheng |
 
 
 
