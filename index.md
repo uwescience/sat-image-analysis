@@ -8,6 +8,9 @@
 |----------|-------| -----------|
 |Jan 9, 3:30-5:00pm | Networking Event| Shay Strong: Machine Learning with Satellite Imagery: From Water Conservation to Catastrophe Assessment|
 |Jan 23, 12:30 -1:30pm |Labelling Human Activities on Satellite Imagery| Wanli Cheng |
+|Feb 6, 12:30-1:30pm | Delineating and characterizing Pacific Northwest forest conditions with Machine Learning models trained on publicly-available data | David Diaz|
+|Feb 20, 12:30-1:30pm| TBA | Victoria Ly |
+|Mar 6, 12:30-1:30pm| TBA | Ian Davies |
 
 
 
