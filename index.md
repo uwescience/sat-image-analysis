@@ -23,7 +23,7 @@
 |-------|-------|-----------|
 | Nov 1 | *Lightning Talks* | All|
 | Nov 15 |  *Data Processing Workflows* | David Diaz: [Dask.distributed pipeline chaining together command line calls for point cloud processing on a single server](https://github.com/Ecotrust/pyFIRS/tree/master/pyFIRS/examples)<br/>Amanda Tan: Simplified Workflow for Processing and Analyzing High-Resolution Satellite Imagery<br/>Valentina Staneva: [From Open Satellite Data to Emergency Response](https://github.com/valentina-s/presentations/blob/master/Staneva_Valentina_Workflow.pdf)|
-|Nov 29| *Data Processing Workflows*| Aji John: [Serverless Workflow Enablement and Execution Platform (SWEEP)]() <br/> Scott Henderson: [The Pangeo project and Cloud-native workflows for satellite imagery]()|
+|Nov 29| *Data Processing Workflows*| Aji John: [Serverless Workflow Enablement and Execution Platform (SWEEP)]() <br/> Scott Henderson: [The Pangeo project and Cloud-native workflows for satellite imagery](https://medium.com/pangeo/cloud-native-geoprocessing-of-earth-observation-satellite-data-with-pangeo-997692d91ca2 )|
 
 
 **Location:** *[WRF Data Science Studio](https://www.google.com/maps/place/eScience+Institute/@47.6536832,-122.3135565,16z/data=!4m5!3m4!1s0x549014f277b0f15d:0x7c2434f079426d8c!8m2!3d47.6533665!4d-122.3117848), UW Physics/Astronomy Tower, 6th floor*
