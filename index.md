@@ -10,7 +10,7 @@
 |Jan 23, 12:30 -1:30pm |Labelling Human Activities on Satellite Imagery| Wanli Cheng |
 |Feb 6, 12:30-1:30pm | Delineating and characterizing Pacific Northwest forest conditions with Machine Learning models trained on publicly-available data | David Diaz|
 |Feb 20, 12:30-1:30pm| A Road Map for Remotely Sensed Snow Product Feasibility using Google Earth Engine | Victoria Ly |
-|Mar 6, 12:30-1:30pm| TBA | Ian Davies |
+|Mar 6, 12:30-1:30pm| A GEE and Python workflow for cloudy gap filling in flood detection | Ian Davies |
 
 
 
