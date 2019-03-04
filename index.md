@@ -9,7 +9,7 @@
 |Jan 9, 3:30-5:00pm | Networking Event| Shay Strong: Machine Learning with Satellite Imagery: From Water Conservation to Catastrophe Assessment|
 |Jan 23, 12:30 -1:30pm |Labelling Human Activities on Satellite Imagery| Wanli Cheng |
 |Feb 6, 12:30-1:30pm | Delineating and characterizing Pacific Northwest forest conditions with Machine Learning models trained on publicly-available data | David Diaz|
-|Feb 20, 12:30-1:30pm| A Road Map for Remotely Sensed Snow Product Feasibility using Google Earth Engine | Victoria Ly |
+|Feb 20, 12:30-1:30pm| [A Road Map for Remotely Sensed Snow Product Feasibility using Google Earth Engine](https://docs.google.com/presentation/d/1AmlI_MC-k0w2rvTiuS4evV6CbLX9zmylwgqQXAlW2Vc/edit?usp=sharing) | Victoria Ly |
 |Mar 6, 12:30-1:30pm| A GEE and Python workflow for cloudy gap filling in flood detection | Ian Davies |
 
 
