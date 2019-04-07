@@ -4,7 +4,7 @@ Satellite Image Analysis Reference Guide
 Datasets
 ---
 Satellite imagery is new to me, where can I start learning about it?
-[newcomers earth observation-guide]https://business.esa.int/newcomers-earth-observation-guide
+[newcomers earth observation-guide](https://business.esa.int/newcomers-earth-observation-guide)
 
 I'd like information about a particular satellite mission!
 * [satellite mission database](https://directory.eoportal.org/web/eoportal/satellite-missions)
@@ -37,20 +37,23 @@ https://geohackweek.github.io/machine-learning/
 https://carpentrieslab.github.io/python-aos-lesson/
 
 Graphical GIS programs
-https://qgis.org
+[QGIS][https://qgis.org]
 
 Command line programs
-https://github.com/OSGeo/gdal
+[Gdal](https://github.com/OSGeo/gdal)
 
 Python Tools
-https://github.com/mapbox/rasterio
-https://github.com/pydata/xarray
-https://github.com/geopandas/geopandas
+[Rasterio](https://github.com/mapbox/rasterio)
+
+[Xarray](https://github.com/pydata/xarray)
+
+[Geopandas](https://github.com/geopandas/geopandas)
 
 Preprocessing Tools:
 Cloud removal???
+
 Simple unsupervised cloud removal from RGB images: 
-https://github.com/DDS-Lab/disaster-image-processing/blob/master/notebooks/cloud-removal/CloudRemoval.ipynb
+[Cloud Removal Notebook](https://github.com/DDS-Lab/disaster-image-processing/blob/master/notebooks/cloud-removal/CloudRemoval.ipynb)
 
 
 
@@ -59,19 +62,23 @@ https://github.com/DDS-Lab/disaster-image-processing/blob/master/notebooks/cloud
 Large scale image manipulation, cloud computing
 ---
 Tools
-https://github.com/pangeo-data
-https://aws.amazon.com/sagemaker/
+
+[Pangeo](https://github.com/pangeo-data)
+
+[Amazon Sagemaker](https://aws.amazon.com/sagemaker/)
+
+[Dask](https://dask.org/)
 
 Example Notebooks
 
 Visualization & Mapping
 ---
 Python Tools
-https://github.com/pyviz/pyviz
-https://github.com/jupyter-widgets/ipyleaflet
-https://github.com/SciTools/cartopy
-http://geoserver.org/
-https://docs.mapbox.com/help/how-mapbox-works/satellite-imagery/
+[Pyviz](https://github.com/pyviz/pyviz)
+[Ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet)
+[Cartopy](https://github.com/SciTools/cartopy)
+[Geoserver](http://geoserver.org/)
+[Mapbox](https://docs.mapbox.com/help/how-mapbox-works/satellite-imagery/)
 
 Example Notebooks
 https://anaconda.org/jbednar/landsat/notebook
@@ -80,35 +87,41 @@ https://anaconda.org/jbednar/landsat/notebook
 Image Processing
 ---
 
-* [eScience Institute Tutorials](https://github.com/uwescience/eScience_tutorials)
-
 Example Notebooks
 https://github.com/planetlabs/notebooks
 
 
 Machine Learning
 ---
-What machine learning problem.
+What machine learning problem?
+
 What are the inputs and outputs of the system?
-What is the format of your labels?
-Is it points, regions/masks, labels associated with images?
+
+What is the format of your labels? Points, regions/masks, labels associated with images?
+
 Do you plan to treat pixels as individual observations, or images as individual observations?
 
 Learning about different computer vision tasks:
-https://medium.com/datadriveninvestor/deep-learning-for-image-segmentation-d10d19131113
+
+[Image Classification, Object Detection, Instance Segmentation](https://medium.com/datadriveninvestor/deep-learning-for-image-segmentation-d10d19131113)
 
 [Geohackweek Machine Learning Tutorial](https://geohackweek.github.io/machine-learning/)
+
 [Tensorflow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
 
-[Object detection demo] (https://github.com/tensorflow/models/blob/master/research/object_detection/object_detection_tutorial.ipynb)
+[Object Detection Demo](https://github.com/tensorflow/models/blob/master/research/object_detection/object_detection_tutorial.ipynb)
 
 Models Pretrained on Satellite Imagery
 
-https://github.com/DIUx-xView/baseline/releases
+[DIUx-xView]https://github.com/DIUx-xView/baseline/releases
 
-https://competitions.codalab.org/competitions/18468#
+[Challenges](http://deepglobe.org/challenge.html)
 
 Semantic Segmentation:
 
-https://github.com/mapbox/robosat
+[Robosat](https://github.com/mapbox/robosat)
+
+Other Data Science Tutorials
+---
+[eScience Institute Tutorials](https://github.com/uwescience/eScience_tutorials)
 
