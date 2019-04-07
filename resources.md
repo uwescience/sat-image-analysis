@@ -40,14 +40,12 @@ Graphical GIS programs
 [QGIS][https://qgis.org]
 
 Command line programs
-[Gdal](https://github.com/OSGeo/gdal)
+*[Gdal](https://github.com/OSGeo/gdal)
 
 Python Tools
-[Rasterio](https://github.com/mapbox/rasterio)
-
-[Xarray](https://github.com/pydata/xarray)
-
-[Geopandas](https://github.com/geopandas/geopandas)
+* [Rasterio](https://github.com/mapbox/rasterio)
+* [Xarray](https://github.com/pydata/xarray)
+* [Geopandas](https://github.com/geopandas/geopandas)
 
 Preprocessing Tools:
 Cloud removal???
@@ -62,23 +60,20 @@ Simple unsupervised cloud removal from RGB images:
 Large scale image manipulation, cloud computing
 ---
 Tools
-
-[Pangeo](https://github.com/pangeo-data)
-
-[Amazon Sagemaker](https://aws.amazon.com/sagemaker/)
-
-[Dask](https://dask.org/)
+* [Pangeo](https://github.com/pangeo-data)
+* [Amazon Sagemaker](https://aws.amazon.com/sagemaker/)
+* [Dask](https://dask.org/)
 
 Example Notebooks
 
 Visualization & Mapping
 ---
 Python Tools
-[Pyviz](https://github.com/pyviz/pyviz)
-[Ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet)
-[Cartopy](https://github.com/SciTools/cartopy)
-[Geoserver](http://geoserver.org/)
-[Mapbox](https://docs.mapbox.com/help/how-mapbox-works/satellite-imagery/)
+* [Pyviz](https://github.com/pyviz/pyviz)
+* [Ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet)
+* [Cartopy](https://github.com/SciTools/cartopy)
+* [Geoserver](http://geoserver.org/)
+* [Mapbox](https://docs.mapbox.com/help/how-mapbox-works/satellite-imagery/)
 
 Example Notebooks
 https://anaconda.org/jbednar/landsat/notebook
@@ -113,7 +108,7 @@ Learning about different computer vision tasks:
 
 Models Pretrained on Satellite Imagery
 
-[DIUx-xView]https://github.com/DIUx-xView/baseline/releases
+[DIUx-xView](https://github.com/DIUx-xView/baseline/releases)
 
 [Challenges](http://deepglobe.org/challenge.html)
 
