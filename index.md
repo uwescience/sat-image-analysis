@@ -4,6 +4,10 @@
 
 **Meeting Time: Spring Quarter** *Every other Thursday, 12:30-2:00pm*
 
+|Date      | Topic | Presenters |
+|----------|-------| -----------|
+|April 4 | [Resources Guide](https://uwescience.github.io/sat-image-analysis/resources)| |
+
 **Meeting Time: Winter Quarter** *Every other Wednesday, 12:30-1:30pm*
 
 |Date      | Topic | Presenters |
