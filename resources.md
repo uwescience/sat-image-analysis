@@ -29,18 +29,18 @@ I'm a student looking for scholarships for data access
 
 Geospatial Spatial Processing
 ---
-https://www.earthdatascience.org/
-https://automating-gis-processes.github.io/2016/
 
-https://geohackweek.github.io/raster/
-https://geohackweek.github.io/machine-learning/
-https://carpentrieslab.github.io/python-aos-lesson/
+Tutorials
+* [Earth Data Science](https://www.earthdatascience.org/)
+* [Python GIS Course](https://automating-gis-processes.github.io/2016/)
+* [Geohackweek Raster Tutorial](https://geohackweek.github.io/raster/)
+* [Carpentries Python for Athmosphere and Ocean Scientists](https://carpentrieslab.github.io/python-aos-lesson/)
 
 Graphical GIS programs
-[QGIS][https://qgis.org]
+* [QGIS](https://qgis.org)
 
 Command line programs
-*[Gdal](https://github.com/OSGeo/gdal)
+* [Gdal](https://github.com/OSGeo/gdal)
 
 Python Tools
 * [Rasterio](https://github.com/mapbox/rasterio)
