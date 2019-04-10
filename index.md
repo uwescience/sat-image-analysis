@@ -9,7 +9,7 @@
 |April 4 | [Resources Guide](https://uwescience.github.io/sat-image-analysis/resources)| |
 |April 18 | TBD| |
 |April 25| Ask a question: stop by to ask questions/discuss project ideas| Amanda & Valentina|
-|May 2, 4:00pm - May 3, 6:00pm| SatHack: Satellite Image Analysis Hackday|
+|May 2, 4:00pm - May 3, 6:00pm| [SatHack: Satellite Imagery Hackday](https://docs.google.com/forms/d/e/1FAIpQLSf5cPRKuM0x8g4JUfp-YlwQCkUHvNLwZVTxSi-tWsBnOGX6OQ/viewform?usp=sf_link)|
 
 
 **Meeting Time: Winter Quarter** *Every other Wednesday, 12:30-1:30pm*
