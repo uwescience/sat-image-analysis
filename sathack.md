@@ -10,9 +10,9 @@ Do you have a pressing satellite imagery problem? Do you want to try out a new t
   
   **Friday (May 3), 8:30am - 5:00pm:** Hacking!
   
-  **Friday (May 3), 5:00pm - 6:00pm:** Share your progress.
+  **Friday (May 3), 5:00pm - 6:00pm:** Sharing!
 
 The Data Science Studio will remain open for as long as needed on Thursday and Friday. 
 
-Please, RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSf5cPRKuM0x8g4JUfp-YlwQCkUHvNLwZVTxSi-tWsBnOGX6OQ/viewform?usp=sf_link) by April 25. We encourage you to brainstorm hack ideas ahead of time. You can share them in this [document](http://bit.ly/sat-hack2019) or sign up for [slack](https://sat-image-analysis.slack.com/) and join the #sat-hack2019 channel.
+Please, RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSf5cPRKuM0x8g4JUfp-YlwQCkUHvNLwZVTxSi-tWsBnOGX6OQ/viewform?usp=sf_link) by April 25. We encourage you to brainstorm hack ideas ahead of time. You can share them in this [document](http://bit.ly/sathack2019-brainstorm) or sign up for [slack](https://sat-image-analysis.slack.com/) and join the #sat-hack2019 channel.
 
