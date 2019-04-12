@@ -7,7 +7,7 @@
 |Date      | Topic | Presenters |
 |----------|-------| -----------|
 |April 4 | [Resources Guide](https://uwescience.github.io/sat-image-analysis/resources)| |
-|April 18 | TBD| |
+|April 18 | Formulating Machine Learning Problems for Satellite Imagery| Valentina Staneva |
 |April 25| Ask a question: stop by to ask questions/discuss project ideas| Amanda & Valentina|
 |May 2, 4:00pm - May 3, 6:00pm| [SatHack: Satellite Imagery Hackday](https://uwescience.github.io/sat-image-analysis/sathack)|
 
