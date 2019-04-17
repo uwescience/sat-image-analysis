@@ -88,33 +88,37 @@ https://github.com/planetlabs/notebooks
 
 Machine Learning
 ---
-What machine learning problem?
+*What machine learning problem?*
 
-What are the inputs and outputs of the system?
+*What are the inputs and outputs of the system?*
 
-What is the format of your labels? Points, regions/masks, labels associated with images?
+*What is the format of your labels? Points, regions/masks, labels associated with images?*
 
-Do you plan to treat pixels as individual observations, or images as individual observations?
+*Do you plan to treat pixels as individual observations, or images as individual observations?*
 
 Learning about different computer vision tasks:
 
-[Image Classification, Object Detection, Instance Segmentation](https://medium.com/datadriveninvestor/deep-learning-for-image-segmentation-d10d19131113)
+* [Image Classification, Object Detection, Instance Segmentation](https://medium.com/datadriveninvestor/deep-learning-for-image-segmentation-d10d19131113)
 
 [Geohackweek Machine Learning Tutorial](https://geohackweek.github.io/machine-learning/)
+
+* [List of Deep Learning Resources for Satellite Imagery](https://github.com/robmarkcole/satellite-image-deep-learning)
 
 [Tensorflow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
 
 [Object Detection Demo](https://github.com/tensorflow/models/blob/master/research/object_detection/object_detection_tutorial.ipynb)
 
-Models Pretrained on Satellite Imagery
+Models Pretrained on Satellite Imagery:
 
-[DIUx-xView](https://github.com/DIUx-xView/baseline/releases)
+* [DIUx-xView](https://github.com/DIUx-xView/baseline/releases)
 
-[Challenges](http://deepglobe.org/challenge.html)
+Challenges:
+
+* [Deep Globe Challenges](http://deepglobe.org/challenge.html)
 
 Semantic Segmentation:
 
-[Robosat](https://github.com/mapbox/robosat)
+* [Robosat](https://github.com/mapbox/robosat)
 
 Other Data Science Tutorials
 ---
