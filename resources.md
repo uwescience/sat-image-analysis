@@ -122,6 +122,8 @@ Challenges:
 Semantic Segmentation:
 
 * [Robosat](https://github.com/mapbox/robosat)
+* [Ship Segmentation Example with U-net](https://www.kaggle.com/uysimty/ship-detection-using-keras-u-net)
+* [Ship Detection with Mask R-CNN](https://www.kaggle.com/samlin001/mask-r-cnn-ship-detection-minimum-viable-model-1)
 
 Other Data Science Tutorials
 ---
