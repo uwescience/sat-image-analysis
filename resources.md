@@ -104,7 +104,7 @@ Learning about different computer vision tasks:
 
 [Geohackweek Machine Learning Tutorial](https://geohackweek.github.io/machine-learning/)
 
-* [List of Deep Learning Resources for Satellite Imagery](https://github.com/robmarkcole/satellite-image-deep-learning)
+[List of Deep Learning Resources for Satellite Imagery](https://github.com/robmarkcole/satellite-image-deep-learning)
 
 [Tensorflow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
 
