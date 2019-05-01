@@ -81,20 +81,22 @@ https://anaconda.org/jbednar/landsat/notebook
 
 Image Processing
 ---
+* [scikit-image](https://scikit-image.org/docs/stable/auto_examples/index.html)
+* []
+
 
 Example Notebooks
-https://github.com/planetlabs/notebooks
+* [Scikit-Image Notebooks](https://github.com/scikit-image/skimage-tutorials/tree/master/lectures)
+* [Planet Notebooks](https://github.com/planetlabs/notebooks)
 
 
 Machine Learning
 ---
-*What machine learning problem?*
-
-*What are the inputs and outputs of the system?*
-
-*What is the format of your labels? Points, regions/masks, labels associated with images?*
-
-*Do you plan to treat pixels as individual observations, or images as individual observations?*
+Premiliminary Questions:
+* *What is the machine learning problem?*
+* *What are the inputs and outputs of the system?*
+* *What is the format of your labels? Points, regions/masks, labels associated with images?*
+* *Do you plan to treat pixels as individual observations, or images as individual observations?*
 
 Learning about different computer vision tasks:
 
