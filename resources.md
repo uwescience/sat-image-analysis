@@ -65,6 +65,8 @@ Tools
 * [Dask](https://dask.org/)
 
 Example Notebooks
+* [Dask example](https://examples.dask.org/applications/satellite-imagery-geotiff.html)
+* [Satpy Notebooks](https://satpy.readthedocs.io/en/latest/examples.html)
 
 Visualization & Mapping
 ---
