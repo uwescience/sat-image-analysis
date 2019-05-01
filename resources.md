@@ -48,7 +48,7 @@ Python Tools
 * [Geopandas](https://github.com/geopandas/geopandas)
 
 Preprocessing Tools:
-Cloud removal???
+* Cloud removal?
 
 Simple unsupervised cloud removal from RGB images: 
 [Cloud Removal Notebook](https://github.com/DDS-Lab/disaster-image-processing/blob/master/notebooks/cloud-removal/CloudRemoval.ipynb)
@@ -82,7 +82,6 @@ https://anaconda.org/jbednar/landsat/notebook
 Image Processing
 ---
 * [scikit-image](https://scikit-image.org/docs/stable/auto_examples/index.html)
-* []
 
 
 Example Notebooks
