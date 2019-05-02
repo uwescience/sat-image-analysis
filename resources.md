@@ -121,6 +121,8 @@ Models Pretrained on Satellite Imagery:
 Challenges:
 
 * [Deep Globe Challenges](http://deepglobe.org/challenge.html)
+* [CrowdAI Mapping Challenge](https://github.com/crowdAI/crowdai-mapping-challenge-mask-rcnn)
+* [Dstl Challenge](https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection)
 
 Semantic Segmentation:
 
