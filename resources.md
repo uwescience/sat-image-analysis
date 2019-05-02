@@ -63,6 +63,7 @@ Tools
 * [Pangeo](https://github.com/pangeo-data)
 * [Amazon Sagemaker](https://aws.amazon.com/sagemaker/)
 * [Dask](https://dask.org/)
+* [Azure Geo & AI instance](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/geo-ai-dsvm-overview)
 
 Example Notebooks
 * [Dask example](https://examples.dask.org/applications/satellite-imagery-geotiff.html)
