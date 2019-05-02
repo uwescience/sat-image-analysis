@@ -123,6 +123,7 @@ Challenges:
 * [Deep Globe Challenges](http://deepglobe.org/challenge.html)
 * [CrowdAI Mapping Challenge](https://github.com/crowdAI/crowdai-mapping-challenge-mask-rcnn)
 * [Dstl Challenge](https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection)
+* [SpaceNet Challenge](https://spacenetchallenge.github.io/) 
 
 Semantic Segmentation:
 
