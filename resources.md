@@ -25,7 +25,9 @@ I'd like to work with satellite imagery on commercial cloud computing infrastruc
 I'm a student looking for scholarships for data access   
 * [USGIF Scholarships](https://usgif.org/education/scholarships) for grad students, several should be for data access
     
-
+I would like some metadata:
+* [Python OpenStreetMap api](https://pypi.org/project/osmapi/)
+* [OSMnx:OpenStreetMap Street Networks](https://geoffboeing.com/2016/11/osmnx-python-street-networks/)
 
 Geospatial Spatial Processing
 ---
