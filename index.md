@@ -10,6 +10,7 @@
 |April 18 | [Formulating Machine Learning Problems for Satellite Imagery](https://github.com/uwescience/sat-image-analysis/blob/master/presentations/SatML_Valentina.pdf)| Valentina Staneva |
 |April 25| Ask a question: stop by to ask questions/discuss project ideas| Amanda & Valentina|
 |May 2, 4:00pm - May 3, 6:00pm| [SatHack: Satellite Imagery Hackday](https://uwescience.github.io/sat-image-analysis/sathack)|
+|May 16| TBD | Amanda Tan|
 
 
 **Meeting Time: Winter Quarter** *Every other Wednesday, 12:30-1:30pm*
