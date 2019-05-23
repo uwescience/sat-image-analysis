@@ -11,6 +11,7 @@
 |April 25| Ask a question: stop by to ask questions/discuss project ideas| Amanda & Valentina|
 |May 2, 4:00pm - May 3, 6:00pm| [SatHack: Satellite Imagery Hackday](https://uwescience.github.io/sat-image-analysis/sathack)|
 |May 16| Accessing Landsat Data on AWS and Getting Started with AWS Sagemaker | Amanda Tan|
+|May 30| TBD | Friedrich Knuth|
 
 
 **Meeting Time: Winter Quarter** *Every other Wednesday, 12:30-1:30pm*
