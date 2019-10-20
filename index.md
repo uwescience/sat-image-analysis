@@ -2,7 +2,13 @@
 
 ### Satellite Image Analysis Special Interest Group
 
-**Meeting Time: Spring Quarter** *Every other Thursday, 12:30-2:00pm*
+**Fall 2019 Quarter**
+|Date | Topic | Presenters |
+|-----|-------|------------|
+|Oct 23 |Precision Agriculture Talk & Networking  | [Alireza Jazayeri](https://www.linkedin.com/in/scisco7/), Climate Corporation |
+|Nov 14, 4:00pm - Nov 16 | Fall SatHack 19 | Everybody |
+
+**Meeting Time: Spring 2019 Quarter** *Every other Thursday, 12:30-2:00pm*
 
 |Date      | Topic | Presenters |
 |----------|-------| -----------|
@@ -14,7 +20,7 @@
 |May 30| Unlocking the archives: an automated processing pipeline for decadal-scale glacier mass-balance from historical imagery | Friedrich Knuth|
 
 
-**Meeting Time: Winter Quarter** *Every other Wednesday, 12:30-1:30pm*
+**Meeting Time: Winter 2019 Quarter** *Every other Wednesday, 12:30-1:30pm*
 
 |Date      | Topic | Presenters |
 |----------|-------| -----------|
@@ -28,7 +34,7 @@
 
 
 
-**Meeting Time: Fall Quarter**  *Every other Thursday, 12:00pm - 1:00pm*
+**Meeting Time: Fall 2018 Quarter**  *Every other Thursday, 12:00pm - 1:00pm*
 
 **Meetings:**
 
