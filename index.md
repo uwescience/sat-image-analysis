@@ -3,6 +3,7 @@
 ### Satellite Image Analysis Special Interest Group
 
 **Fall 2019 Quarter**
+
 |Date | Topic | Presenters |
 |-----|-------|------------|
 |Oct 23 |Precision Agriculture Talk & Networking  | [Alireza Jazayeri](https://www.linkedin.com/in/scisco7/), Climate Corporation |
