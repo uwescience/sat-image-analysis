@@ -6,7 +6,7 @@
 
 |Date | Topic | Presenters |
 |-----|-------|------------|
-|Oct 23 |Precision Agriculture Talk & Networking  | [Alireza Jazayeri](https://www.linkedin.com/in/scisco7/), Climate Corporation |
+|Oct 23, 4:00pm |Precision Agriculture Talk & Networking  | [Alireza Jazayeri](https://www.linkedin.com/in/scisco7/), Climate Corporation |
 |Nov 14, 4:00pm - Nov 16 | Fall SatHack 19 | Everybody |
 
 **Meeting Time: Spring 2019 Quarter** *Every other Thursday, 12:30-2:00pm*
