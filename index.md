@@ -7,7 +7,7 @@
 |Date | Topic | Presenters |
 |-----|-------|------------|
 |Oct 23, 4:00pm |[Precision Agriculture Talk](https://gist.github.com/scisco/027cd4f06fd087b21c518e1cf34e311f) & Networking  | [Alireza Jazayeri](https://www.linkedin.com/in/scisco7/), Climate Corporation |
-|Nov 14, 4:00pm - Nov 16 | Fall SatHack 19 | Everybody |
+|Nov 14, 4:00pm - Nov 16 | [Fall SatHack 19](https://uwescience.github.io/sat-image-analysis/sathack) | Everybody |
 
 **Meeting Time: Spring 2019 Quarter** *Every other Thursday, 12:30-2:00pm*
 
