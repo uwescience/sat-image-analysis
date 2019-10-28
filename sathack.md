@@ -12,7 +12,7 @@ Do you have a pressing satellite imagery problem? Do you want to try out a new t
   
   **Friday (Nov 15), 5:00pm - 6:00pm:** Sharing!
   
-  **Saturday (Nov 16), 9:00am - 5:00pm** More Hacking!  
+  **Saturday (Nov 16), 9:00am - 5:00pm:** More Hacking!  
 
 The Data Science Studio will remain open for as long as needed on Thursday, Friday, and Saturday. 
 
