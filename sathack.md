@@ -6,7 +6,7 @@ Do you have a pressing satellite imagery problem? Do you want to try out a new t
 
 #### Schedule: 
 
-  **Thursday (Nov 14), 4:00pm - 7:00pm:** We will pitch project ideas, form hack teams and start hacking! Pizza will be provided!
+  **Thursday (Nov 14), 4:00pm - 7:00pm:** We will pitch project ideas, form hack teams and start hacking! Food will be provided!
   
   **Friday (Nov 15), 8:30am - 5:00pm:** Hacking!
   
