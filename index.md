@@ -3,6 +3,7 @@
 ### Satellite Image Analysis Special Interest Group
 
 **Winter 2020 Quarter**
+
 |Date | Topic | Presenters |
 |-----|-------|------------|
 |Feb 5, 3:30pm |[Tracking high latitude surface water dynamics using CubeSat imagery and machine learning]() | [Sarah Cooley](https://www.sarahwcooley.com/), Brown University |
