@@ -7,6 +7,8 @@
 |Date | Topic | Presenters |
 |-----|-------|------------|
 |Feb 5, 3:30pm |[Tracking high latitude surface water dynamics using CubeSat imagery and machine learning]() | [Sarah Cooley](https://www.sarahwcooley.com/), Brown University |
+|Feb 25, 3:30pm |[Machine Learning and Glaciological Remote Sensing: A New Era]() | [Yara Mohajerani](http://yaramohajerani.com/), UC Irvine |
+
 
 
 **Fall 2019 Quarter**
