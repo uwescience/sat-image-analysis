@@ -3,6 +3,7 @@
 ### Satellite Image Analysis Special Interest Group
 
 **Winter 2021 Quarter**
+
 |Date | Topic | Presenters |
 |-----|-------|------------|
 |March 11, 4:30pm |[Radiant MLHub: An Ecosystem to Advance Machine Learning Applications in Earth Science]() | [Hamed Alemohammad](http://hamed.mit.edu/), Radiant Earth Foundation|
